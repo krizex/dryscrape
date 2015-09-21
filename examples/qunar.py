@@ -7,3 +7,11 @@ if __name__ == '__main__':
     session.visit(my_url)
     response = session.body()
     print response
+
+
+
+
+
+
+
+
